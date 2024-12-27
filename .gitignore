@@ -28,3 +28,6 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+bootstrap/cache/packages.php
+bootstrap/cache/services.php
+storage/logs/laravel.log
