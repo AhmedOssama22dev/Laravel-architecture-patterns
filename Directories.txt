@@ -1,0 +1,29 @@
+app/
+├── Core/
+│   ├── Domain/
+│   │   ├── Entities/
+│   │   │   ├── Order.php
+│   │   │   ├── Product.php
+│   │   ├── Repositories/
+│   │   │   ├── OrderRepositoryInterface.php
+│   │   │   ├── ProductRepositoryInterface.php
+│   ├── Application/
+│   │   ├── DTOs/
+│   │   │   ├── OrderDTO.php
+│   │   ├── UseCases/
+│   │   │   ├── CreateOrderUseCase.php
+│   │   │   ├── GetOrderUseCase.php
+│   ├── Infrastructure/
+│   │   ├── Repositories/
+│   │   │   ├── OrderRepository.php
+│   │   │   ├── ProductRepository.php
+│   │   ├── Models/
+│   │   │   ├── OrderModel.php
+│   │   │   ├── ProductModel.php
+├── Http/
+│   ├── Controllers/
+│   │   ├── OrderController.php
+│   ├── Requests/
+│   │   ├── CreateOrderRequest.php
+├── routes/
+│   ├── api.php
