@@ -9,7 +9,7 @@ class OrderDTO {
     public $products;
     public $discount;
 
-    public function __construct($customerId, $products, Discount $discount) {
+    public function __construct($customerId, $products, Discount $discount = null) {
         $this->customerId = $customerId;
         $this->products = $products;
         $this->discount = $discount;
