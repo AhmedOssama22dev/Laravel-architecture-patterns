@@ -25,7 +25,6 @@ Each branch in this repository represents a different architecture pattern. The 
 
 
 ![Overview][1]
-[1]: https://github.com/AhmedOssama22dev/Laravel-architecture-patterns/blob/clean-architecture/Diagrams/Clean%20Arch%20Laravel.drawio.svg  "Clean architecture"
-
+[1]: # Clean Architecture
 <img src="https://github.com/AhmedOssama22dev/Laravel-architecture-patterns/blob/clean-architecture/Diagrams/Clean%20Arch%20Laravel.drawio.svg">
 
