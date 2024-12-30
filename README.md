@@ -22,3 +22,10 @@ Each branch in this repository represents a different architecture pattern. The 
    To get started, clone the repository to your local machine:
    ```bash
    git clone https://github.com/ahmedossama22/Laravel-Architecture-Patterns.git
+
+
+![Overview][1]
+[1]: https://github.com/AhmedOssama22dev/Laravel-architecture-patterns/blob/clean-architecture/Diagrams/Clean%20Arch%20Laravel.drawio.svg  "Clean architecture"
+
+<img src="https://github.com/AhmedOssama22dev/Laravel-architecture-patterns/blob/clean-architecture/Diagrams/Clean%20Arch%20Laravel.drawio.svg">
+
